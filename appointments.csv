@@ -1,0 +1,501 @@
+Patient_ID,Appointment_Date,Branch,Department,Doctor_ID,Visit_Status,Consultation_Duration,Billing_Amount,Booking_Type
+P001,2025-06-06 10:15,Delhi,General Consultation,D120,Completed,51,1279,Online
+P002,2025-07-06 15:00,Delhi,General Consultation,D404,Cancelled,0,0,Online
+P003,2025-06-23 16:00,Mumbai,General Consultation,D205,Completed,32,4623,Online
+P004,2025-06-21 12:00,Mumbai,Follow-Up,D330,Completed,21,1043,Online
+P005,2025-06-06 11:30,Delhi,Diagnostics,D330,No-Show,0,0,Online
+P006,2025-06-27 09:45,Mumbai,Diagnostics,D330,Completed,54,2605,Offline
+P007,2025-06-16 13:00,Delhi,Follow-Up,D101,Completed,53,885,Online
+P008,2025-07-16 12:15,Pune,General Consultation,D330,Cancelled,0,0,Offline
+P009,2025-06-21 14:30,Delhi,General Consultation,D120,Completed,42,2520,Online
+P010,2025-06-02 12:45,Mumbai,General Consultation,D404,Completed,28,2492,Online
+P011,2025-07-13 19:30,Delhi,General Consultation,D101,Completed,43,-100,Offline
+P012,2025-06-23 15:45,Mumbai,Follow-Up,D120,Completed,55,-100,Offline
+P013,2025-07-04 09:15,Bangalore,General Consultation,D205,Completed,38,-100,Online
+P014,2025-07-16 09:00,Mumbai,General Consultation,D330,Completed,20,-100,Offline
+P015,2025-06-21 14:30,Pune,Follow-Up,D404,Completed,55,-100,Offline
+P016,2025-06-27 16:30,Delhi,Diagnostics,D101,Completed,42,-100,Online
+P017,2025-06-08 18:15,Pune,General Consultation,D101,Completed,43,2982,Offline
+P018,2025-06-30 16:00,Mumbai,General Consultation,D404,Completed,18,3489,Offline
+P019,2025-06-16 18:30,Mumbai,Follow-Up,D205,No-Show,0,0,Online
+P020,2025-07-15 11:00,Mumbai,Surgery,D330,Cancelled,0,0,Online
+P021,2025-06-08 17:15,Pune,General Consultation,D404,,40,2821,Offline
+P022,2025-06-02 10:00,Bangalore,Follow-Up,D205,,28,596,Offline
+P023,2025-06-07 19:30,Bangalore,General Consultation,D101,,0,0,Offline
+P024,2025-06-01 10:45,Bangalore,General Consultation,D330,Cancelled,0,0,Online
+P025,2025-06-06 13:00,Delhi,Diagnostics,D120,Completed,59,886,Online
+P026,2025-07-06 09:45,Delhi,Surgery,D101,Completed,50,3001,Online
+P027,2025-06-18 16:45,Delhi,Surgery,D101,Completed,33,574,Online
+P028,2025-07-13 18:45,Delhi,General Consultation,D101,Completed,42,3980,Offline
+P029,2025-07-03 19:30,Delhi,Surgery,D101,Cancelled,0,0,Offline
+P030,2025-06-03 19:00,Bangalore,Follow-Up,D205,Completed,45,1572,Online
+P031,2025-07-05 15:45,Pune,General Consultation,D101,Completed,59,875,Online
+P032,2025-06-08 19:00,Delhi,Diagnostics,D330,Cancelled,0,0,Offline
+P033,2025-06-18 13:45,Bangalore,Diagnostics,D205,Completed,23,3293,Online
+P034,2025-07-10 10:15,Pune,Diagnostics,D101,Completed,25,4269,Online
+P035,2025-06-04 19:00,Pune,Diagnostics,D205,Completed,37,2489,Offline
+P036,2025-06-08 09:45,Mumbai,Follow-Up,D120,Completed,19,4507,Online
+P037,2025-07-09 12:00,Delhi,General Consultation,D330,Completed,17,2113,Online
+P038,2025-06-06 17:00,Mumbai,Surgery,D330,Completed,57,2371,Offline
+P039,2025-06-21 17:45,Mumbai,Diagnostics,D120,Completed,27,1168,Offline
+P040,2025-07-16 18:45,Bangalore,Follow-Up,D120,No-Show,0,0,Offline
+P041,2025-06-21 10:15,Bangalore,Follow-Up,D101,Completed,47,1719,Online
+P042,2025-06-26 16:15,Mumbai,Follow-Up,D330,Completed,52,1776,Online
+P043,2025-06-27 10:00,Bangalore,General Consultation,D120,Completed,34,3887,Offline
+P044,2025-07-01 16:00,Pune,Follow-Up,D101,Cancelled,0,0,Online
+P045,2025-06-26 12:30,Bangalore,Diagnostics,D205,Completed,35,916,Offline
+P046,2025-07-04 15:00,Delhi,General Consultation,D404,Completed,41,770,Online
+P047,2025-06-21 12:30,Delhi,Diagnostics,D101,Completed,54,1621,Offline
+P048,2025-06-24 16:30,Delhi,General Consultation,D205,Completed,47,3218,Offline
+P049,2025-06-24 13:45,Delhi,Follow-Up,D205,Completed,56,3710,Offline
+P050,2025-06-10 17:45,Delhi,Diagnostics,D205,Completed,17,3615,Online
+P051,2025-06-19 17:30,Mumbai,General Consultation,D101,Completed,17,2043,Offline
+P052,2025-06-20 16:30,Mumbai,General Consultation,D120,Completed,22,2942,Offline
+P053,2025-06-02 14:45,Mumbai,Follow-Up,D120,Completed,33,1220,Online
+P054,2025-07-13 12:45,Mumbai,Follow-Up,D101,Completed,54,2291,Offline
+P055,2025-06-19 12:00,Mumbai,General Consultation,D120,Completed,51,3664,Online
+P056,2025-07-11 13:30,Delhi,Surgery,D101,Completed,30,3156,Online
+P057,2025-07-03 14:00,Bangalore,Follow-Up,D101,Completed,31,4755,Offline
+P058,2025-06-26 19:30,Delhi,Diagnostics,D404,Completed,32,4225,Online
+P059,2025-06-03 16:00,Pune,Follow-Up,D205,Completed,27,1885,Offline
+P060,2025-06-17 12:45,Bangalore,Diagnostics,D205,Completed,58,1510,Offline
+P061,2025-06-13 19:00,Mumbai,Diagnostics,D101,Cancelled,0,0,Online
+P062,2025-07-16 19:00,Pune,Follow-Up,D101,Completed,33,802,Offline
+P063,2025-07-06 16:00,Bangalore,Follow-Up,D120,Completed,36,4198,Online
+P064,2025-06-12 13:30,Pune,Follow-Up,D101,Completed,51,4566,Online
+P065,2025-06-22 12:15,Pune,Diagnostics,D120,Completed,41,2395,Offline
+P066,2025-06-16 19:15,Mumbai,Diagnostics,D404,Completed,25,3373,Online
+P067,2025-07-12 18:45,Delhi,Diagnostics,D330,Cancelled,0,0,Offline
+P068,2025-06-16 13:00,Pune,General Consultation,D404,Cancelled,0,0,Offline
+P069,2025-07-08 14:30,Delhi,Follow-Up,D205,No-Show,0,0,Offline
+P070,2025-07-16 11:30,Bangalore,Follow-Up,D404,Completed,15,2943,Online
+P071,2025-07-04 15:30,Pune,Surgery,D120,Completed,57,3109,Offline
+P072,2025-06-25 09:15,Mumbai,General Consultation,D101,Completed,50,764,Offline
+P073,2025-07-08 15:30,Bangalore,General Consultation,D205,Cancelled,0,0,Offline
+P074,2025-06-12 18:15,Delhi,Surgery,D101,Completed,20,1334,Offline
+P075,2025-07-04 11:45,Mumbai,General Consultation,D205,Cancelled,0,0,Online
+P076,2025-06-10 17:15,Mumbai,Surgery,D330,Completed,42,2916,Offline
+P077,2025-06-29 18:00,Bangalore,Surgery,D205,Completed,51,2164,Online
+P078,2025-07-02 16:15,Mumbai,Surgery,D205,Completed,23,2067,Online
+P079,2025-07-11 12:45,Mumbai,Follow-Up,D330,Completed,25,1352,Offline
+P080,2025-07-09 11:45,Bangalore,Follow-Up,D205,Completed,51,1061,Offline
+P081,2025-07-04 09:15,Delhi,Diagnostics,D101,Cancelled,0,0,Online
+P082,2025-06-15 17:15,Pune,Diagnostics,D205,Completed,15,3141,Offline
+P083,2025-07-13 19:30,Bangalore,Diagnostics,D330,Completed,53,928,Offline
+P084,2025-06-07 18:00,Pune,Follow-Up,D101,Completed,59,1440,Offline
+P085,2025-06-23 09:45,Bangalore,Diagnostics,D120,Completed,34,3590,Offline
+P086,2025-06-10 10:45,Bangalore,Follow-Up,D205,Completed,22,589,Offline
+P087,2025-06-23 16:15,Bangalore,General Consultation,D330,Completed,25,1496,Online
+P088,2025-06-04 13:45,Bangalore,General Consultation,D404,Completed,48,2011,Offline
+P089,2025-06-09 19:30,Mumbai,General Consultation,D330,Cancelled,0,0,Online
+P090,2025-06-12 17:30,Delhi,Follow-Up,D330,No-Show,0,0,Online
+P091,2025-07-15 18:00,Pune,Follow-Up,D101,Cancelled,0,0,Offline
+P092,2025-07-13 13:00,Mumbai,General Consultation,D330,Cancelled,0,0,Online
+P093,2025-06-27 16:15,Mumbai,Follow-Up,D330,Completed,60,3858,Online
+P094,2025-06-30 14:00,Delhi,General Consultation,D205,Completed,38,1972,Online
+P095,2025-06-17 13:30,Mumbai,Diagnostics,D120,Completed,29,2588,Offline
+P096,2025-07-16 16:45,Delhi,General Consultation,D120,Cancelled,0,0,Online
+P097,2025-06-02 18:45,Delhi,Diagnostics,D101,Completed,49,929,Offline
+P098,2025-06-11 18:15,Pune,General Consultation,D404,Cancelled,0,0,Online
+P099,2025-06-24 13:45,Delhi,General Consultation,D101,Completed,48,3051,Online
+P100,2025-06-20 11:15,Delhi,General Consultation,D205,No-Show,0,0,Online
+P101,2025-07-15 16:45,Mumbai,Follow-Up,D101,Completed,60,3964,Offline
+P102,2025-06-11 12:15,Mumbai,Diagnostics,D101,Completed,28,4652,Online
+P103,2025-07-09 18:15,Delhi,General Consultation,D120,Completed,15,3729,Offline
+P104,2025-07-12 16:15,Bangalore,Surgery,D404,Completed,48,2236,Online
+P105,2025-07-13 11:30,Delhi,General Consultation,D404,Completed,36,3739,Offline
+P106,2025-07-09 16:45,Mumbai,General Consultation,D101,Completed,39,3668,Offline
+P107,2025-06-08 13:30,Delhi,General Consultation,D101,No-Show,0,0,Online
+P108,2025-07-05 11:45,Bangalore,Follow-Up,D120,Completed,29,4222,Offline
+P109,2025-06-17 19:30,Delhi,General Consultation,D205,Completed,53,4441,Offline
+P110,2025-06-27 11:30,Pune,Follow-Up,D205,Completed,50,3409,Online
+P111,2025-06-29 19:45,Mumbai,General Consultation,D404,Completed,50,1611,Online
+P112,2025-06-07 14:30,Mumbai,Diagnostics,D404,Completed,57,1538,Offline
+P113,2025-06-15 15:30,Bangalore,Diagnostics,D404,Completed,31,2283,Offline
+P114,2025-06-24 09:45,Delhi,Follow-Up,D330,Cancelled,0,0,Online
+P115,2025-06-04 15:45,Pune,Follow-Up,D101,Completed,19,3741,Offline
+P116,2025-06-03 10:45,Mumbai,Follow-Up,D120,Completed,35,636,Offline
+P117,2025-07-11 12:45,Bangalore,Surgery,D120,Completed,34,1515,Offline
+P118,2025-06-18 16:30,Delhi,Follow-Up,D404,Completed,19,3763,Online
+P119,2025-07-01 13:45,Pune,Diagnostics,D101,Completed,34,4134,Offline
+P120,2025-06-18 13:30,Pune,General Consultation,D404,Completed,22,640,Offline
+P121,2025-06-30 13:00,Bangalore,Follow-Up,D205,Completed,24,2701,Offline
+P122,2025-07-11 10:15,Mumbai,Surgery,D404,Completed,22,3960,Online
+P123,2025-07-13 12:15,Delhi,Follow-Up,D404,Completed,52,2657,Offline
+P124,2025-06-19 09:45,Mumbai,General Consultation,D205,Completed,45,1884,Offline
+P125,2025-06-22 15:00,Delhi,Surgery,D101,No-Show,0,0,Offline
+P126,2025-06-01 09:15,Pune,Surgery,D205,Completed,23,1324,Online
+P127,2025-07-08 14:15,Pune,Surgery,D101,Completed,59,4278,Offline
+P128,2025-06-21 17:30,Delhi,Diagnostics,D101,Completed,53,2298,Online
+P129,2025-06-20 11:45,Mumbai,Surgery,D101,Cancelled,0,0,Online
+P130,2025-06-01 19:45,Delhi,Diagnostics,D330,No-Show,0,0,Offline
+P131,2025-07-02 12:15,Bangalore,General Consultation,D101,No-Show,0,0,Offline
+P132,2025-06-15 18:00,Pune,Diagnostics,D330,Completed,18,2722,Online
+P133,2025-06-07 18:15,Bangalore,Diagnostics,D205,Completed,49,3940,Online
+P134,2025-07-10 18:00,Mumbai,Follow-Up,D330,Completed,21,4781,Offline
+P135,2025-06-18 19:15,Bangalore,Follow-Up,D330,Completed,35,3681,Online
+P136,2025-06-01 13:30,Pune,General Consultation,D404,Completed,18,2490,Offline
+P137,2025-06-30 09:00,Mumbai,Follow-Up,D205,Completed,50,4653,Offline
+P138,2025-06-15 18:15,Mumbai,General Consultation,D101,Completed,60,2390,Offline
+P139,2025-06-01 15:15,Mumbai,General Consultation,D404,Completed,39,1165,Online
+P140,2025-06-29 09:15,Mumbai,Follow-Up,D404,Completed,40,3010,Online
+P141,2025-06-29 10:30,Delhi,Follow-Up,D101,Cancelled,0,0,Online
+P142,2025-06-15 12:15,Pune,Diagnostics,D120,Completed,58,4168,Offline
+P143,2025-06-20 11:00,Delhi,Follow-Up,D120,Completed,36,2392,Online
+P144,2025-06-16 14:15,Pune,Follow-Up,D205,Completed,21,4061,Online
+P145,2025-07-11 12:30,Delhi,General Consultation,D120,Cancelled,0,0,Online
+P146,2025-06-06 16:30,Mumbai,Follow-Up,D205,Completed,45,3742,Offline
+P147,2025-06-19 19:00,Mumbai,Follow-Up,D120,Completed,29,4803,Offline
+P148,2025-06-18 15:00,Pune,General Consultation,D205,Cancelled,0,0,Offline
+P149,2025-07-10 12:45,Mumbai,Follow-Up,D120,Cancelled,0,0,Online
+P150,2025-06-13 11:15,Bangalore,General Consultation,D205,Completed,37,3579,Online
+P151,2025-06-05 19:45,Bangalore,Diagnostics,D120,No-Show,0,0,Offline
+P152,2025-06-08 15:00,Pune,Follow-Up,D330,No-Show,0,0,Offline
+P153,2025-07-09 14:45,Mumbai,Follow-Up,D101,Completed,15,539,Online
+P154,2025-06-27 09:45,Delhi,Follow-Up,D120,Cancelled,0,0,Online
+P155,2025-06-03 19:30,Delhi,General Consultation,D101,No-Show,0,0,Online
+P156,2025-06-24 11:45,Bangalore,Follow-Up,D101,Completed,20,2597,Offline
+P157,2025-07-14 17:00,Mumbai,Follow-Up,D330,Completed,22,4831,Online
+P158,2025-07-14 18:15,Pune,Diagnostics,D120,Completed,60,3758,Online
+P159,2025-06-30 10:00,Delhi,General Consultation,D101,Cancelled,0,0,Online
+P160,2025-06-16 16:45,Bangalore,Surgery,D205,Cancelled,0,0,Online
+P161,2025-07-05 11:30,Pune,Diagnostics,D330,Completed,37,3465,Online
+P162,2025-07-08 12:00,Delhi,Diagnostics,D205,Completed,51,4687,Online
+P163,2025-06-03 13:15,Mumbai,General Consultation,D101,Completed,24,1551,Online
+P164,2025-06-03 16:15,Pune,Diagnostics,D330,No-Show,0,0,Online
+P165,2025-06-22 15:15,Pune,Diagnostics,D330,Completed,22,2011,Online
+P166,2025-06-05 15:00,Bangalore,General Consultation,D101,Completed,57,634,Offline
+P167,2025-06-02 18:15,Delhi,Follow-Up,D120,Completed,35,658,Offline
+P168,2025-07-05 14:30,Bangalore,Diagnostics,D120,Cancelled,0,0,Offline
+P169,2025-06-26 15:30,Delhi,Follow-Up,D330,Completed,40,3600,Offline
+P170,2025-06-20 10:30,Bangalore,General Consultation,D404,Completed,58,2343,Online
+P171,2025-06-20 10:15,Delhi,General Consultation,D404,Completed,49,4911,Online
+P172,2025-06-19 18:00,Mumbai,General Consultation,D330,Cancelled,0,0,Offline
+P173,2025-06-06 15:15,Bangalore,Follow-Up,D330,Completed,48,3463,Online
+P174,2025-06-21 10:30,Delhi,General Consultation,D205,Cancelled,0,0,Offline
+P175,2025-07-15 13:15,Pune,General Consultation,D205,Completed,34,1455,Online
+P176,2025-06-01 13:15,Bangalore,General Consultation,D120,No-Show,0,0,Offline
+P177,2025-07-05 15:15,Bangalore,Follow-Up,D120,Completed,16,4513,Online
+P178,2025-06-16 13:00,Mumbai,Surgery,D330,Completed,46,732,Offline
+P179,2025-06-07 11:00,Delhi,General Consultation,D404,Completed,50,4989,Online
+P180,2025-06-09 18:00,Mumbai,General Consultation,D101,No-Show,0,0,Online
+P181,2025-06-06 17:15,Pune,Follow-Up,D330,Completed,34,1413,Offline
+P182,2025-06-14 16:15,Pune,General Consultation,D330,Completed,22,4517,Online
+P183,2025-06-19 11:15,Mumbai,Diagnostics,D205,Completed,43,4364,Online
+P184,2025-07-12 18:30,Bangalore,General Consultation,D101,Completed,17,1870,Offline
+P185,2025-06-20 11:30,Bangalore,Follow-Up,D120,Cancelled,0,0,Online
+P186,2025-07-09 13:15,Delhi,General Consultation,D205,Completed,21,4582,Online
+P187,2025-06-19 09:30,Mumbai,Follow-Up,D101,Completed,43,2920,Online
+P188,2025-07-15 14:00,Bangalore,Follow-Up,D330,Completed,40,3537,Online
+P189,2025-06-18 19:30,Mumbai,Follow-Up,D120,No-Show,0,0,Online
+P190,2025-06-18 15:00,Pune,Follow-Up,D404,Completed,26,2475,Offline
+P191,2025-06-01 16:45,Pune,Diagnostics,D205,Cancelled,0,0,Online
+P192,2025-07-11 09:15,Mumbai,Follow-Up,D205,Completed,60,4459,Offline
+P193,2025-06-16 18:30,Delhi,Diagnostics,D404,Completed,28,1189,Offline
+P194,2025-07-05 12:30,Mumbai,Follow-Up,D404,Completed,39,636,Online
+P195,2025-07-12 10:45,Delhi,Follow-Up,D330,Completed,15,1033,Offline
+P196,2025-06-15 14:00,Delhi,Diagnostics,D330,No-Show,0,0,Offline
+P197,2025-06-26 13:00,Pune,Follow-Up,D120,Completed,30,1807,Online
+P198,2025-07-11 16:30,Delhi,General Consultation,D404,Completed,45,2286,Online
+P199,2025-06-30 12:15,Delhi,General Consultation,D120,Cancelled,0,0,Online
+P200,2025-06-14 13:15,Mumbai,General Consultation,D330,Cancelled,0,0,Online
+P201,2025-07-15 19:15,Pune,Follow-Up,D330,Completed,36,1052,Online
+P202,2025-06-02 09:30,Delhi,Diagnostics,D205,Cancelled,0,0,Online
+P203,2025-06-26 17:45,Pune,Surgery,D101,Completed,15,1112,Online
+P204,2025-07-14 19:00,Bangalore,Follow-Up,D404,Completed,15,3533,Offline
+P205,2025-06-03 19:45,Delhi,Diagnostics,D404,Completed,22,770,Online
+P206,2025-07-13 17:15,Pune,General Consultation,D120,Completed,35,2529,Online
+P207,2025-06-28 10:45,Delhi,General Consultation,D330,Completed,26,3019,Offline
+P208,2025-06-19 13:45,Mumbai,Diagnostics,D101,Completed,33,4484,Offline
+P209,2025-06-09 16:45,Pune,Follow-Up,D330,Completed,54,4248,Offline
+P210,2025-06-08 10:30,Bangalore,Follow-Up,D120,Completed,39,3052,Offline
+P211,2025-06-11 13:30,Delhi,General Consultation,D120,Completed,54,4460,Online
+P212,2025-06-20 18:30,Delhi,Follow-Up,D101,Completed,54,2138,Online
+P213,2025-06-18 19:45,Delhi,Follow-Up,D101,Cancelled,0,0,Offline
+P214,2025-06-11 13:30,Pune,General Consultation,D205,Completed,22,3268,Offline
+P215,2025-07-04 10:45,Mumbai,Surgery,D205,Completed,32,1750,Online
+P216,2025-06-20 17:30,Bangalore,Surgery,D404,Completed,31,2593,Offline
+P217,2025-06-04 13:45,Bangalore,Follow-Up,D101,Completed,46,3792,Online
+P218,2025-07-12 10:30,Delhi,Diagnostics,D404,Completed,44,2945,Offline
+P219,2025-06-16 16:00,Delhi,General Consultation,D330,Completed,41,1372,Offline
+P220,2025-06-03 14:00,Mumbai,General Consultation,D404,Cancelled,0,0,Offline
+P221,2025-06-13 18:30,Bangalore,Follow-Up,D120,Completed,41,4201,Offline
+P222,2025-06-03 19:45,Bangalore,General Consultation,D101,No-Show,0,0,Offline
+P223,2025-06-12 09:00,Delhi,General Consultation,D205,Completed,18,2441,Online
+P224,2025-07-06 19:00,Bangalore,General Consultation,D205,Completed,48,2953,Online
+P225,2025-07-14 15:45,Delhi,Follow-Up,D205,Completed,28,1235,Offline
+P226,2025-07-10 17:45,Bangalore,General Consultation,D330,No-Show,0,0,Online
+P227,2025-06-15 19:15,Delhi,Follow-Up,D101,Completed,29,3605,Online
+P228,2025-06-25 11:00,Bangalore,Follow-Up,D330,Cancelled,0,0,Offline
+P229,2025-06-17 19:15,Bangalore,Diagnostics,D404,Completed,16,2459,Online
+P230,2025-06-16 15:15,Delhi,General Consultation,D101,Completed,23,3513,Online
+P231,2025-06-25 12:15,Mumbai,Diagnostics,D330,Completed,39,4500,Online
+P232,2025-07-06 10:15,Mumbai,Diagnostics,D404,Completed,44,2486,Online
+P233,2025-07-05 18:15,Pune,Follow-Up,D404,Completed,52,2814,Online
+P234,2025-07-08 16:45,Bangalore,General Consultation,D101,Completed,25,1286,Offline
+P235,2025-06-05 10:30,Pune,Diagnostics,D101,Completed,38,1935,Offline
+P236,2025-07-02 14:15,Bangalore,General Consultation,D404,Completed,54,3115,Offline
+P237,2025-07-16 14:45,Pune,Surgery,D101,No-Show,0,0,Offline
+P238,2025-07-14 18:45,Delhi,Surgery,D205,No-Show,0,0,Online
+P239,2025-06-30 15:30,Delhi,Diagnostics,D101,Completed,39,991,Online
+P240,2025-06-25 16:15,Pune,General Consultation,D205,Completed,48,4078,Offline
+P241,2025-07-02 13:30,Mumbai,Diagnostics,D205,Cancelled,0,0,Online
+P242,2025-06-08 15:15,Pune,General Consultation,D404,Completed,60,3637,Online
+P243,2025-06-06 16:00,Delhi,General Consultation,D101,Cancelled,0,0,Offline
+P244,2025-06-14 13:00,Delhi,Diagnostics,D205,Completed,25,3385,Online
+P245,2025-07-12 13:45,Bangalore,Follow-Up,D404,Completed,24,4613,Offline
+P246,2025-06-02 18:45,Bangalore,Diagnostics,D120,Completed,50,2906,Offline
+P247,2025-06-19 10:30,Bangalore,General Consultation,D101,Completed,19,4979,Offline
+P248,2025-07-16 18:00,Pune,Follow-Up,D101,Completed,35,4426,Online
+P249,2025-06-28 19:45,Delhi,Follow-Up,D330,Completed,54,3433,Online
+P250,2025-07-11 11:45,Bangalore,Surgery,D120,Completed,25,2764,Offline
+P251,2025-06-14 17:15,Mumbai,General Consultation,D404,Completed,35,4459,Online
+P252,2025-06-14 17:30,Delhi,General Consultation,D120,Completed,28,2651,Online
+P253,2025-06-15 19:15,Pune,Follow-Up,D205,No-Show,0,0,Online
+P254,2025-07-01 13:15,Bangalore,Follow-Up,D404,Completed,36,3997,Online
+P255,2025-07-12 14:45,Pune,General Consultation,D101,Completed,33,1126,Offline
+P256,2025-06-20 11:45,Bangalore,Surgery,D404,Completed,15,2852,Online
+P257,2025-06-25 11:00,Delhi,Follow-Up,D120,Cancelled,0,0,Offline
+P258,2025-06-02 15:15,Mumbai,General Consultation,D120,Completed,29,2425,Offline
+P259,2025-06-06 17:30,Bangalore,Follow-Up,D101,Completed,43,3552,Online
+P260,2025-07-16 10:15,Bangalore,Diagnostics,D404,No-Show,0,0,Offline
+P261,2025-07-01 16:30,Mumbai,Diagnostics,D404,Cancelled,0,0,Online
+P262,2025-06-04 14:45,Bangalore,General Consultation,D330,No-Show,0,0,Offline
+P263,2025-06-28 09:30,Mumbai,General Consultation,D101,Completed,59,4558,Offline
+P264,2025-07-11 10:00,Delhi,General Consultation,D205,Completed,49,4142,Offline
+P265,2025-06-26 15:00,Pune,Diagnostics,D404,Cancelled,0,0,Online
+P266,2025-06-30 13:30,Mumbai,General Consultation,D120,Cancelled,0,0,Online
+P267,2025-06-10 17:15,Bangalore,General Consultation,D330,Completed,19,1442,Offline
+P268,2025-07-15 19:30,Delhi,General Consultation,D205,Completed,52,1968,Online
+P269,2025-07-05 19:30,Delhi,Follow-Up,D101,Cancelled,0,0,Offline
+P270,2025-07-12 17:15,Pune,Follow-Up,D404,No-Show,0,0,Online
+P271,2025-06-17 16:00,Mumbai,Follow-Up,D101,Completed,32,2186,Offline
+P272,2025-07-14 17:15,Pune,General Consultation,D404,Cancelled,0,0,Offline
+P273,2025-07-06 10:00,Mumbai,General Consultation,D120,Completed,20,1824,Online
+P274,2025-06-07 11:00,Pune,Follow-Up,D120,Completed,50,549,Online
+P275,2025-07-04 11:00,Delhi,Follow-Up,D404,Completed,25,4800,Online
+P276,2025-06-02 17:45,Delhi,General Consultation,D120,Completed,15,3428,Offline
+P277,2025-06-10 18:15,Mumbai,General Consultation,D330,Completed,30,4709,Online
+P278,2025-06-19 13:15,Mumbai,Follow-Up,D330,Completed,54,783,Offline
+P279,2025-06-14 09:15,Bangalore,General Consultation,D120,Cancelled,0,0,Online
+P280,2025-06-29 09:15,Bangalore,Follow-Up,D205,Completed,35,923,Offline
+P281,2025-06-04 17:45,Mumbai,General Consultation,D120,Completed,52,766,Offline
+P282,2025-06-04 19:30,Bangalore,Follow-Up,D330,Completed,52,3827,Online
+P283,2025-07-03 18:45,Pune,Follow-Up,D330,Completed,38,3251,Online
+P284,2025-06-14 10:45,Bangalore,General Consultation,D101,Completed,57,1580,Offline
+P285,2025-07-13 12:45,Delhi,Follow-Up,D120,Completed,60,2661,Offline
+P286,2025-06-07 12:30,Pune,Diagnostics,D120,Completed,47,2893,Offline
+P287,2025-07-02 09:00,Bangalore,Diagnostics,D205,Completed,44,3547,Offline
+P288,2025-06-27 12:45,Pune,Diagnostics,D404,Completed,59,4243,Online
+P289,2025-07-14 19:00,Mumbai,General Consultation,D120,Cancelled,0,0,Offline
+P290,2025-06-12 18:00,Bangalore,Follow-Up,D101,Completed,41,3961,Online
+P291,2025-06-28 12:45,Delhi,Diagnostics,D205,Completed,54,2312,Offline
+P292,2025-07-16 16:45,Delhi,Follow-Up,D101,Cancelled,0,0,Offline
+P293,2025-06-21 13:15,Mumbai,Follow-Up,D120,Completed,44,3528,Offline
+P294,2025-06-11 18:30,Pune,General Consultation,D205,Completed,16,1625,Offline
+P295,2025-07-13 09:30,Pune,Follow-Up,D330,Cancelled,0,0,Online
+P296,2025-07-04 09:00,Mumbai,General Consultation,D101,Completed,23,2499,Offline
+P297,2025-06-05 10:00,Delhi,Diagnostics,D330,Cancelled,0,0,Offline
+P298,2025-06-12 14:45,Pune,General Consultation,D330,No-Show,0,0,Online
+P299,2025-06-16 10:45,Bangalore,Surgery,D120,Completed,16,3624,Online
+P300,2025-07-10 13:15,Mumbai,General Consultation,D330,Completed,54,4331,Offline
+P301,2025-07-05 12:45,Mumbai,Diagnostics,D120,Cancelled,0,0,Offline
+P302,2025-07-07 14:15,Pune,General Consultation,D120,No-Show,0,0,Online
+P303,2025-07-15 18:30,Mumbai,Surgery,D101,Completed,33,1778,Offline
+P304,2025-06-02 12:15,Mumbai,Surgery,D404,Completed,55,3485,Online
+P305,2025-06-06 15:00,Pune,General Consultation,D330,Completed,54,4822,Offline
+P306,2025-07-14 11:30,Pune,Diagnostics,D330,Cancelled,0,0,Online
+P307,2025-07-05 16:15,Bangalore,General Consultation,D330,Completed,24,1453,Offline
+P308,2025-06-24 19:30,Mumbai,General Consultation,D120,Completed,51,1228,Offline
+P309,2025-07-03 12:00,Mumbai,General Consultation,D101,Completed,22,2760,Online
+P310,2025-06-17 19:45,Bangalore,Follow-Up,D404,Completed,36,3481,Offline
+P311,2025-07-16 19:30,Bangalore,General Consultation,D101,Completed,33,3864,Online
+P312,2025-06-14 18:15,Bangalore,Follow-Up,D205,Cancelled,0,0,Online
+P313,2025-06-11 12:15,Pune,General Consultation,D101,Completed,44,2124,Offline
+P314,2025-06-19 18:15,Delhi,Diagnostics,D101,Completed,45,1013,Online
+P315,2025-06-25 18:45,Delhi,Surgery,D120,Completed,32,2112,Online
+P316,2025-07-04 13:00,Bangalore,Diagnostics,D101,Completed,19,4618,Online
+P317,2025-06-22 12:45,Bangalore,Surgery,D404,No-Show,0,0,Online
+P318,2025-06-25 16:30,Pune,Follow-Up,D101,Cancelled,0,0,Online
+P319,2025-06-22 10:00,Bangalore,Follow-Up,D120,Completed,25,2906,Online
+P320,2025-07-03 18:30,Pune,Follow-Up,D101,Completed,56,3190,Offline
+P321,2025-06-21 16:00,Mumbai,General Consultation,D101,Cancelled,0,0,Offline
+P322,2025-06-10 10:15,Bangalore,General Consultation,D101,Completed,21,4744,Offline
+P323,2025-06-16 16:45,Delhi,Follow-Up,D205,Completed,21,3524,Offline
+P324,2025-07-01 15:00,Mumbai,General Consultation,D101,Completed,55,1850,Online
+P325,2025-06-25 15:00,Pune,General Consultation,D404,Completed,32,4864,Offline
+P326,2025-06-19 09:30,Pune,Follow-Up,D205,Cancelled,0,0,Offline
+P327,2025-06-10 14:00,Pune,General Consultation,D120,Completed,51,1901,Online
+P328,2025-06-03 18:30,Mumbai,Follow-Up,D101,Completed,24,2156,Online
+P329,2025-06-11 09:45,Delhi,General Consultation,D120,Completed,33,4943,Online
+P330,2025-07-06 11:15,Pune,Follow-Up,D205,Completed,40,4202,Online
+P331,2025-06-07 13:15,Delhi,Diagnostics,D205,Completed,36,4518,Online
+P332,2025-06-19 12:00,Mumbai,Follow-Up,D101,Completed,32,704,Online
+P333,2025-06-23 13:15,Delhi,General Consultation,D101,Completed,54,2792,Offline
+P334,2025-06-17 19:15,Mumbai,General Consultation,D120,No-Show,0,0,Online
+P335,2025-07-02 09:45,Delhi,General Consultation,D404,Completed,45,4491,Offline
+P336,2025-06-26 14:45,Pune,Follow-Up,D120,Completed,56,4387,Online
+P337,2025-06-24 16:45,Bangalore,General Consultation,D404,Cancelled,0,0,Online
+P338,2025-06-19 19:30,Delhi,Follow-Up,D330,No-Show,0,0,Offline
+P339,2025-06-01 09:30,Delhi,General Consultation,D404,Completed,18,2115,Online
+P340,2025-06-06 13:00,Mumbai,Diagnostics,D404,No-Show,0,0,Online
+P341,2025-06-02 15:00,Bangalore,Diagnostics,D120,Completed,24,593,Offline
+P342,2025-07-14 09:45,Mumbai,General Consultation,D205,Completed,19,4460,Offline
+P343,2025-06-01 12:45,Bangalore,Diagnostics,D101,Completed,42,3488,Online
+P344,2025-07-09 17:30,Pune,General Consultation,D205,Completed,41,1381,Online
+P345,2025-06-02 13:45,Mumbai,General Consultation,D120,Completed,26,2580,Offline
+P346,2025-06-11 17:00,Pune,General Consultation,D205,Cancelled,0,0,Online
+P347,2025-06-04 09:30,Mumbai,Follow-Up,D330,Cancelled,0,0,Offline
+P348,2025-06-05 11:45,Pune,General Consultation,D101,Completed,45,3939,Online
+P349,2025-06-10 14:45,Delhi,Follow-Up,D120,Cancelled,0,0,Offline
+P350,2025-07-13 19:15,Mumbai,Diagnostics,D330,Cancelled,0,0,Offline
+P351,2025-06-08 09:00,Mumbai,General Consultation,D330,Completed,58,1473,Offline
+P352,2025-07-03 11:00,Delhi,Follow-Up,D120,Completed,30,4407,Online
+P353,2025-06-09 13:45,Pune,General Consultation,D404,Cancelled,0,0,Offline
+P354,2025-06-24 14:00,Bangalore,Surgery,D120,Cancelled,0,0,Offline
+P355,2025-06-12 10:45,Mumbai,Follow-Up,D120,Completed,30,2181,Online
+P356,2025-07-07 13:00,Delhi,General Consultation,D120,Completed,31,3189,Online
+P357,2025-06-20 12:15,Pune,Diagnostics,D101,No-Show,0,0,Offline
+P358,2025-06-15 12:15,Bangalore,General Consultation,D101,Completed,16,2249,Online
+P359,2025-06-13 11:00,Delhi,Follow-Up,D120,Completed,48,2637,Offline
+P360,2025-07-12 17:00,Delhi,Diagnostics,D120,Completed,48,3240,Offline
+P361,2025-07-06 09:30,Pune,Follow-Up,D101,No-Show,0,0,Offline
+P362,2025-07-08 10:45,Pune,Follow-Up,D101,Completed,24,3452,Offline
+P363,2025-06-24 18:00,Pune,Follow-Up,D101,Completed,27,3368,Online
+P364,2025-07-05 16:00,Delhi,General Consultation,D101,Completed,47,2323,Offline
+P365,2025-06-16 15:00,Delhi,Follow-Up,D330,Cancelled,0,0,Online
+P366,2025-06-05 11:45,Pune,General Consultation,D330,Completed,24,4749,Online
+P367,2025-07-15 18:30,Bangalore,Follow-Up,D205,Completed,60,1389,Offline
+P368,2025-06-24 13:30,Mumbai,Follow-Up,D101,Completed,58,3261,Offline
+P369,2025-06-16 12:00,Mumbai,General Consultation,D101,Completed,24,1989,Offline
+P370,2025-07-05 10:00,Bangalore,Diagnostics,D330,Cancelled,0,0,Online
+P371,2025-06-05 17:15,Delhi,General Consultation,D120,Completed,20,4661,Online
+P372,2025-07-02 18:30,Delhi,General Consultation,D120,Cancelled,0,0,Online
+P373,2025-06-03 14:30,Pune,Follow-Up,D330,Completed,47,4409,Offline
+P374,2025-06-16 19:00,Delhi,Follow-Up,D120,No-Show,0,0,Online
+P375,2025-06-03 12:45,Pune,Follow-Up,D330,Completed,30,4020,Online
+P376,2025-06-24 15:45,Bangalore,General Consultation,D101,Completed,21,4832,Offline
+P377,2025-07-13 19:00,Bangalore,General Consultation,D101,No-Show,0,0,Online
+P378,2025-07-06 19:15,Pune,General Consultation,D330,Completed,54,2180,Offline
+P379,2025-07-01 11:00,Delhi,Diagnostics,D330,Completed,20,1430,Online
+P380,2025-06-08 09:45,Delhi,General Consultation,D404,No-Show,0,0,Online
+P381,2025-06-13 18:30,Delhi,General Consultation,D330,Completed,41,1264,Offline
+P382,2025-07-06 12:15,Delhi,General Consultation,D205,Cancelled,0,0,Offline
+P383,2025-07-11 19:15,Mumbai,Follow-Up,D205,Cancelled,0,0,Online
+P384,2025-07-09 12:00,Mumbai,General Consultation,D404,Cancelled,0,0,Online
+P385,2025-06-11 16:45,Pune,General Consultation,D330,Completed,47,4252,Offline
+P386,2025-06-07 19:00,Delhi,Follow-Up,D330,Cancelled,0,0,Online
+P387,2025-06-17 10:45,Pune,Follow-Up,D205,Completed,41,543,Offline
+P388,2025-06-21 10:45,Delhi,General Consultation,D330,Cancelled,0,0,Offline
+P389,2025-07-13 10:15,Pune,Follow-Up,D120,Completed,58,2564,Offline
+P390,2025-06-23 14:00,Mumbai,General Consultation,D330,Cancelled,0,0,Online
+P391,2025-07-02 10:45,Pune,Diagnostics,D205,Completed,42,3194,Offline
+P392,2025-07-03 11:45,Pune,Diagnostics,D404,Completed,37,1425,Online
+P393,2025-06-09 11:00,Pune,General Consultation,D205,Completed,16,2584,Offline
+P394,2025-07-07 09:45,Pune,Follow-Up,D120,Completed,33,4480,Offline
+P395,2025-06-11 14:15,Bangalore,General Consultation,D120,Completed,32,1961,Offline
+P396,2025-06-26 14:00,Bangalore,Diagnostics,D101,Completed,35,1919,Online
+P397,2025-07-03 12:00,Delhi,General Consultation,D330,Cancelled,0,0,Offline
+P398,2025-07-05 17:00,Delhi,General Consultation,D404,Cancelled,0,0,Offline
+P399,2025-06-27 10:45,Bangalore,General Consultation,D205,Completed,20,650,Online
+P400,2025-07-04 10:00,Delhi,General Consultation,D101,Completed,50,2993,Offline
+P401,2025-06-05 13:15,Bangalore,Follow-Up,D404,Completed,18,3654,Online
+P402,2025-06-30 10:30,Mumbai,Surgery,D101,Cancelled,0,0,Online
+P403,2025-06-27 12:00,Delhi,General Consultation,D404,Cancelled,0,0,Online
+P404,2025-06-14 18:30,Delhi,General Consultation,D205,No-Show,0,0,Offline
+P405,2025-07-05 14:30,Mumbai,General Consultation,D404,Completed,41,505,Online
+P406,2025-07-11 09:00,Mumbai,Follow-Up,D330,Completed,49,4497,Offline
+P407,2025-07-15 18:30,Mumbai,General Consultation,D330,Completed,17,1330,Offline
+P408,2025-06-29 19:30,Mumbai,General Consultation,D101,Cancelled,0,0,Online
+P409,2025-07-02 14:15,Delhi,Diagnostics,D330,Cancelled,0,0,Offline
+P410,2025-06-23 14:00,Mumbai,Follow-Up,D101,Completed,45,1423,Online
+P411,2025-07-01 18:30,Mumbai,Follow-Up,D120,Completed,15,796,Online
+P412,2025-06-26 19:45,Delhi,Follow-Up,D101,Completed,15,3703,Offline
+P413,2025-06-15 15:15,Mumbai,General Consultation,D120,Cancelled,0,0,Online
+P414,2025-07-05 17:30,Delhi,Follow-Up,D205,Cancelled,0,0,Online
+P415,2025-06-09 13:30,Pune,Follow-Up,D404,Cancelled,0,0,Offline
+P416,2025-06-05 14:15,Pune,General Consultation,D330,Completed,39,559,Online
+P417,2025-07-06 14:15,Mumbai,General Consultation,D404,Completed,51,533,Online
+P418,2025-06-07 18:45,Delhi,General Consultation,D330,Completed,53,3316,Offline
+P419,2025-07-11 14:45,Bangalore,Diagnostics,D101,Completed,57,1463,Offline
+P420,2025-06-16 17:45,Pune,Diagnostics,D404,Completed,58,3597,Offline
+P421,2025-06-15 18:30,Mumbai,General Consultation,D404,Completed,18,3493,Online
+P422,2025-06-18 18:45,Delhi,Follow-Up,D101,Cancelled,0,0,Offline
+P423,2025-06-25 13:45,Bangalore,Follow-Up,D330,Completed,51,2411,Offline
+P424,2025-07-07 19:00,Pune,General Consultation,D120,Cancelled,0,0,Offline
+P425,2025-07-06 19:00,Pune,Surgery,D404,Cancelled,0,0,Online
+P426,2025-06-09 16:00,Pune,Follow-Up,D101,No-Show,0,0,Offline
+P427,2025-06-27 12:00,Pune,Diagnostics,D205,Completed,20,919,Online
+P428,2025-07-02 11:30,Bangalore,General Consultation,D404,Completed,57,2069,Offline
+P429,2025-07-05 19:30,Mumbai,General Consultation,D120,Completed,48,3788,Online
+P430,2025-06-03 14:00,Bangalore,Diagnostics,D205,Completed,42,3360,Online
+P431,2025-06-07 17:45,Pune,Diagnostics,D101,Completed,47,4070,Offline
+P432,2025-07-04 10:15,Delhi,Follow-Up,D205,Completed,54,3944,Offline
+P433,2025-06-14 18:15,Pune,Diagnostics,D101,No-Show,0,0,Offline
+P434,2025-06-10 10:30,Bangalore,Surgery,D330,Completed,48,3006,Offline
+P435,2025-07-11 18:45,Bangalore,General Consultation,D205,Completed,30,1512,Online
+P436,2025-06-05 17:45,Pune,Diagnostics,D120,Completed,16,2616,Offline
+P437,2025-06-10 09:15,Pune,General Consultation,D205,Completed,43,1744,Offline
+P438,2025-06-04 10:00,Mumbai,Follow-Up,D205,Cancelled,0,0,Online
+P439,2025-07-08 12:15,Delhi,Follow-Up,D330,Completed,52,2288,Offline
+P440,2025-07-07 10:30,Delhi,Diagnostics,D120,Cancelled,0,0,Online
+P441,2025-06-08 15:00,Pune,General Consultation,D120,No-Show,0,0,Online
+P442,2025-07-05 19:30,Pune,General Consultation,D404,Completed,53,4561,Offline
+P443,2025-07-02 19:30,Delhi,General Consultation,D120,Cancelled,0,0,Offline
+P444,2025-07-01 10:00,Pune,Follow-Up,D205,Completed,60,2222,Online
+P445,2025-06-06 16:45,Mumbai,General Consultation,D120,Completed,19,1612,Offline
+P446,2025-06-24 13:45,Bangalore,Diagnostics,D330,Completed,23,2938,Offline
+P447,2025-06-26 18:45,Mumbai,Diagnostics,D120,Completed,31,1497,Online
+P448,2025-06-29 15:30,Mumbai,Diagnostics,D330,Completed,20,2148,Online
+P449,2025-06-25 10:30,Delhi,General Consultation,D120,Completed,57,2199,Offline
+P450,2025-06-21 18:30,Bangalore,Surgery,D404,Completed,20,3640,Offline
+P451,2025-06-15 13:00,Mumbai,General Consultation,D330,Completed,17,1759,Offline
+P452,2025-07-05 15:00,Delhi,Diagnostics,D330,Completed,45,3494,Online
+P453,2025-07-08 18:30,Pune,Diagnostics,D120,Completed,55,2939,Online
+P454,2025-06-15 10:30,Delhi,General Consultation,D205,Completed,41,3861,Offline
+P455,2025-06-22 16:45,Bangalore,Follow-Up,D404,Completed,25,4525,Online
+P456,2025-06-04 15:15,Delhi,Surgery,D404,Completed,16,1602,Offline
+P457,2025-06-18 15:45,Bangalore,General Consultation,D205,Completed,57,1641,Offline
+P458,2025-06-11 12:00,Mumbai,General Consultation,D120,Completed,50,2515,Offline
+P459,2025-07-06 12:15,Pune,General Consultation,D205,Completed,36,1027,Offline
+P460,2025-06-15 19:15,Delhi,General Consultation,D120,No-Show,0,0,Offline
+P461,2025-06-03 18:30,Delhi,General Consultation,D101,Cancelled,0,0,Offline
+P462,2025-06-17 11:15,Delhi,Diagnostics,D205,Completed,39,4847,Offline
+P463,2025-07-16 15:45,Bangalore,Follow-Up,D205,Cancelled,0,0,Online
+P464,2025-06-23 09:15,Bangalore,Follow-Up,D120,Cancelled,0,0,Offline
+P465,2025-06-15 18:45,Pune,Surgery,D101,Completed,29,1468,Online
+P466,2025-07-15 18:30,Mumbai,General Consultation,D120,Cancelled,0,0,Online
+P467,2025-06-09 18:15,Bangalore,Surgery,D404,Completed,32,2243,Online
+P468,2025-07-16 18:45,Bangalore,Diagnostics,D205,Completed,42,2830,Offline
+P469,2025-06-17 12:15,Pune,Follow-Up,D101,Cancelled,0,0,Online
+P470,2025-06-23 14:15,Mumbai,Diagnostics,D101,Completed,48,3619,Offline
+P471,2025-06-02 15:45,Bangalore,General Consultation,D101,Completed,49,869,Online
+P472,2025-06-01 16:45,Delhi,General Consultation,D205,Cancelled,0,0,Online
+P473,2025-07-09 17:30,Mumbai,Follow-Up,D120,Completed,52,1677,Online
+P474,2025-06-23 10:30,Delhi,General Consultation,D205,Completed,49,1148,Online
+P475,2025-06-05 13:30,Delhi,Surgery,D120,Completed,52,2026,Offline
+P476,2025-07-04 09:00,Mumbai,Follow-Up,D330,Cancelled,0,0,Online
+P477,2025-07-13 09:15,Delhi,Follow-Up,D205,Completed,20,4689,Offline
+P478,2025-06-25 10:15,Bangalore,General Consultation,D120,Cancelled,0,0,Online
+P479,2025-06-09 17:30,Pune,Follow-Up,D120,Completed,56,1403,Online
+P480,2025-06-06 11:15,Delhi,General Consultation,D330,Cancelled,0,0,Offline
+P481,2025-06-05 14:45,Mumbai,Follow-Up,D205,Cancelled,0,0,Offline
+P482,2025-07-04 09:15,Mumbai,Diagnostics,D120,Completed,58,2799,Offline
+P483,2025-07-11 12:30,Mumbai,Surgery,D205,Completed,52,1385,Offline
+P484,2025-06-20 18:45,Delhi,Surgery,D330,Completed,52,2206,Offline
+P485,2025-06-25 19:00,Pune,General Consultation,D404,Completed,41,3558,Offline
+P486,2025-07-11 17:15,Pune,Follow-Up,D205,Completed,31,3768,Online
+P487,2025-06-18 19:30,Mumbai,General Consultation,D205,No-Show,0,0,Offline
+P488,2025-07-03 16:45,Mumbai,Follow-Up,D330,Completed,59,3263,Offline
+P489,2025-06-16 15:30,Pune,Follow-Up,D404,Completed,57,2543,Offline
+P490,2025-07-09 17:15,Delhi,General Consultation,D404,Cancelled,0,0,Offline
+P491,2025-06-06 10:30,Delhi,General Consultation,D404,Cancelled,0,0,Offline
+P492,2025-07-04 19:30,Mumbai,Follow-Up,D205,Cancelled,0,0,Online
+P493,2025-06-27 13:45,Bangalore,General Consultation,D101,Completed,42,2796,Online
+P494,2025-06-30 10:30,Pune,Follow-Up,D101,Completed,20,4059,Offline
+P495,2025-06-04 09:45,Mumbai,Diagnostics,D120,Completed,58,2394,Online
+P496,2025-06-18 11:30,Pune,General Consultation,D120,Completed,56,4956,Online
+P497,2025-06-22 19:30,Bangalore,General Consultation,D101,Completed,15,4876,Offline
+P498,2025-06-09 15:15,Pune,Surgery,D404,Completed,44,3249,Offline
+P499,2025-07-05 14:00,Bangalore,General Consultation,D120,No-Show,0,0,Offline
+P500,2025-06-28 17:30,Delhi,Follow-Up,D205,Cancelled,0,0,Offline
