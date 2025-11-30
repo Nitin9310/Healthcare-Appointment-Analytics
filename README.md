@@ -1,16 +1,16 @@
 # Healthcare Appointment Analytics System 🏥
 
 ## 📌 Project Overview
-[cite_start]This project is an end-to-end **Healthcare Appointment Analytics Application** developed during my internship at **MedTourEasy**[cite: 3, 16]. [cite_start]The system is designed to modernize healthcare operational monitoring by transforming raw appointment data into actionable insights[cite: 61].
+This project is an end-to-end **Healthcare Appointment Analytics Application** developed during my internship at **MedTourEasy**. The system is designed to modernize healthcare operational monitoring by transforming raw appointment data into actionable insights.
 
-[cite_start]It features a robust data pipeline that performs data cleaning, preprocessing, and exploratory data analysis (EDA), culminating in an interactive **Streamlit Dashboard**[cite: 24]. [cite_start]This dashboard allows healthcare administrators to monitor key performance indicators (KPIs) like patient footfall, revenue, cancellation rates, and operational efficiency in real-time[cite: 99, 108].
+It features a robust data pipeline that performs data cleaning, preprocessing, and exploratory data analysis (EDA), culminating in an interactive **Streamlit Dashboard**. This dashboard allows healthcare administrators to monitor key performance indicators (KPIs) like patient footfall, revenue, cancellation rates, and operational efficiency in real-time.
 
 ## 🚀 Features
-* [cite_start]**Data Generation:** A script to generate synthetic healthcare datasets that mimic real-world scenarios, including "dirty data" (outliers, missing values) for cleaning practice[cite: 18].
+* **Data Generation:** A script to generate synthetic healthcare datasets that mimic real-world scenarios, including "dirty data" (outliers, missing values) for cleaning practice[cite: 18].
 * **Data Cleaning & Preprocessing:**
-    * [cite_start]Handling missing values and duplicate records[cite: 20].
-    * [cite_start]Standardizing date-time formats[cite: 131].
-    * [cite_start]Feature Engineering: Extracting `Hour`, `Day_of_Week`, and `Time_Slot` (Morning/Afternoon/Evening)[cite: 21].
+    * Handling missing values and duplicate records.
+    * Standardizing date-time formats.
+    * Feature Engineering: Extracting `Hour`, `Day_of_Week`, and `Time_Slot` (Morning/Afternoon/Evening)[cite: 21].
 * **Key Performance Indicators (KPIs):**
     * [cite_start]Total Appointments & Revenue[cite: 452, 453].
     * [cite_start]Appointment Completion Rates[cite: 148].
